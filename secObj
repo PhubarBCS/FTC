@@ -164,7 +164,7 @@
 					"name": "Crossfire",
 					"objectives": [
 						{
-							"id": "00.06.01",
+							"id": "00.05.01",
 							"name": "Outflank",
 							"description": ""
 						}
@@ -174,7 +174,7 @@
 					"name": "Centre Ground",
 					"objectives": [
 						{
-							"id": "00.07.01",
+							"id": "00.06.01",
 							"name": "Centre Ground",
 							"description": ""
 						}
@@ -184,7 +184,7 @@
 					"name": "Forward Push",
 					"objectives": [
 						{
-							"id": "00.08.01",
+							"id": "00.07.01",
 							"name": "Forward Push",
 							"description": ""
 						}
@@ -194,7 +194,7 @@
 					"name": "Ransack",
 					"objectives": [
 						{
-							"id": "00.09.01",
+							"id": "00.08.01",
 							"name": "Ransack",
 							"description": ""
 						}
@@ -204,7 +204,7 @@
 					"name": "Shifting Front",
 					"objectives": [
 						{
-							"id": "00.10.01",
+							"id": "00.09.01",
 							"name": "Test Their Line",
 							"description": ""
 						}
@@ -214,7 +214,7 @@
 					"name": "Retrieval Mission",
 					"objectives": [
 						{
-							"id": "00.11.01",
+							"id": "00.10.01",
 							"name": "Minimize losses",
 							"description": ""
 						}
@@ -224,7 +224,7 @@
 					"name": "Front-line Warfare",
 					"objectives": [
 						{
-							"id": "00.12.01",
+							"id": "00.11.01",
 							"name": "Vital Ground",
 							"description": ""
 						}
@@ -234,7 +234,7 @@
 					"name": "The Four Pillars",
 					"objectives": [
 						{
-							"id": "00.13.01",
+							"id": "00.12.01",
 							"name": "Siphon Power",
 							"description": ""
 						}
@@ -244,7 +244,7 @@
 					"name": "No Man's Land",
 					"objectives": [
 						{
-							"id": "00.14.01",
+							"id": "00.13.01",
 							"name": "Secure No Man's Land",
 							"description": ""
 						}
@@ -254,7 +254,7 @@
 					"name": "Scorched Earth",
 					"objectives": [
 						{
-							"id": "00.15.01",
+							"id": "00.14.01",
 							"name": "Raze",
 							"description": ""
 						}
@@ -264,7 +264,7 @@
 					"name": "Vital Intelligence",
 					"objectives": [
 						{
-							"id": "00.16.01",
+							"id": "00.15.01",
 							"name": "Data Intercept",
 							"description": ""
 						}
@@ -274,7 +274,7 @@
 					"name": "Lines of Battle",
 					"objectives": [
 						{
-							"id": "00.17.01",
+							"id": "00.16.01",
 							"name": "Hold the Center",
 							"description": ""
 						}
@@ -284,7 +284,7 @@
 					"name": "All-out War",
 					"objectives": [
 						{
-							"id": "00.18.01",
+							"id": "00.17.01",
 							"name": "Surround Them",
 							"description": ""
 						}
@@ -294,7 +294,7 @@
 					"name": "Pathway to Glory",
 					"objectives": [
 						{
-							"id": "00.19.01",
+							"id": "00.18.01",
 							"name": "Search for the Portal",
 							"description": ""
 						}
