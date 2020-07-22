@@ -176,7 +176,14 @@
 						{
 							"id": "00.06.01",
 							"name": "Centre Ground",
-							"description": ""
+							"description": "",
+							"action" :  [
+									{
+									"id": "00.07.01a",
+									"name": "Centre Ground (A)",
+									"description": ""
+									}
+										]
 						}
 					]
 				},
