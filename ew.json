@@ -220,7 +220,7 @@
 						{
 							"id": "EW.00.09.01",
 							"name": "Test Their Line",
-							"description": "[i]Progressive[/i]\nScore 3 victory points at the end of your turn if two or more units from your army (excluding AIRCRAFT) are wholly within your opponent's deployment zone and at least two different battlefield edges have at least one of those units wholly within 6" of them (if one of those battlefield edges is your opponent's battlefield edge, score 5 victory points instead). For the purposes of this objective, a unit can only count as being wholly within 6" of one battlefield edge at a time - if a unit is within 6" of two battlefield edges because it is in the corner of the battlefield, you can select which battlefield edge it counts as being wholly within 6" of at the end of your turn."
+							"description": "[i]Progressive[/i]\nScore 3 victory points at the end of your turn if two or more units from your army (excluding AIRCRAFT) are wholly within your opponent's deployment zone and at least two different battlefield edges have at least one of those units wholly within 6" of them (if one of those battlefield edges is your opponent's battlefield edge, score 5 victory points instead). For the purposes of this objective, a unit can only count as being wholly within 6" of one battlefield edge at a time - if a unit is within 6\" of two battlefield edges because it is in the corner of the battlefield, you can select which battlefield edge it counts as being wholly within 6\" of at the end of your turn."
 						}
 					]
 				},
