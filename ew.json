@@ -181,7 +181,7 @@
                 {
                   "id": "EW.00.06.01a",
                   "name": "Centre Ground (Action)",
-                  "description": "[i]Action[/i]One unit from your army can start to perform this action at the end of your Movement phase if it is within range of an objective marker labelled A and no enemy units (excluding AIRCRAFT) are within range of that objective marker. The action is completed at the end of your next Command phase so long as the unit performing it is still within range of the same objective marker."
+                  "description": "[i]Action[/i]\nOne unit from your army can start to perform this action at the end of your Movement phase if it is within range of an objective marker labelled A and no enemy units (excluding AIRCRAFT) are within range of that objective marker. The action is completed at the end of your next Command phase so long as the unit performing it is still within range of the same objective marker."
                 }
               ]
             }
@@ -198,7 +198,7 @@
                 {
                   "id": "EW.00.07.01a",
                   "name": "Forward Push (Action)",
-                  "description": "[i]Action[/i]One unit from your army can start to perform this action at the start of your Movement phase if it is within range of an objective marker that you control. The action is completed at the end of your turn and you score a number of victory points depending on which objective marker this action was performed on: A 1/8 , B 2/4, C 4/2, D 8/1"
+                  "description": "[i]Action[/i]\nOne unit from your army can start to perform this action at the start of your Movement phase if it is within range of an objective marker that you control. The action is completed at the end of your turn and you score a number of victory points depending on which objective marker this action was performed on: A 1/8 , B 2/4, C 4/2, D 8/1"
                 }
               ]
             }
@@ -255,7 +255,7 @@
                 {
                   "id": "EW.00.12.01a",
                   "name": "Siphon Power (Action)",
-                  "description": "[i]Action[/i]One or more units from your army can start to perform this action at the end of your Movement phase. Each unit that starts to perform this action must be within range of a different objective marker. A unit cannot start this action while any enemy units (excluding AIRCRAFT) are in range of the same objective marker. The action is completed at the end of your next Command phase, and you score a number of victory points depending on how many units completed this action this phase, as follows: 1 gives 1pt, 2 gives 3pt, 3 gives 6pt, 4 gives 10pt,"
+                  "description": "[i]Action[/i]\nOne or more units from your army can start to perform this action at the end of your Movement phase. Each unit that starts to perform this action must be within range of a different objective marker. A unit cannot start this action while any enemy units (excluding AIRCRAFT) are in range of the same objective marker. The action is completed at the end of your next Command phase, and you score a number of victory points depending on how many units completed this action this phase, as follows: 1 gives 1pt, 2 gives 3pt, 3 gives 6pt, 4 gives 10pt,"
                 }
               ]
             }
@@ -292,7 +292,7 @@
                 {
                   "id": "EW.00.15.01a",
                   "name": "Data Intercept (Action)",
-                  "description": "[i]Action[/i]One unit from your army can start to perform this action at the end of your Movement phase if it is within range of an objective marker and no enemy units (excluding AIRCRAFT) are within range of that objective marker. The action is completed at the end of your next Command phase so long as the unit performing it is still within range of the same objective marker."
+                  "description": "[i]Action[/i]\nOne unit from your army can start to perform this action at the end of your Movement phase if it is within range of an objective marker and no enemy units (excluding AIRCRAFT) are within range of that objective marker. The action is completed at the end of your next Command phase so long as the unit performing it is still within range of the same objective marker."
                 }
               ]
             }
@@ -329,7 +329,7 @@
                 {
                   "id": "EW.00.18.01a",
                   "name": "Search for the Portal (Action)",
-                  "description": "[i]Action[/i]One INFANTRY unit from your army (excluding CHARACTERS) can start to perform this action at the end of your Movement phase if it is wholly within the Search Area shown on the deployment map. The action is completed at the end of your next Command phase so long as the unit performing it is still wholly within the Search Area."
+                  "description": "[i]Action[/i]\nOne INFANTRY unit from your army (excluding CHARACTERS) can start to perform this action at the end of your Movement phase if it is wholly within the Search Area shown on the deployment map. The action is completed at the end of your next Command phase so long as the unit performing it is still wholly within the Search Area."
                 }
               ]
             }
