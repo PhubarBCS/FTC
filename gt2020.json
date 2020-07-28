@@ -121,6 +121,118 @@
 					]
 				}
 			]
-		}
+		},
+    {
+      "name": "Mission Specific",
+      "categories": [
+        {
+          "name": "Retrieval Mission",
+          "objectives": [
+            {
+              "id": "GT20.00.01.01",
+              "name": "Minimize losses",
+              "description": "[i]End Game[/i]\nAt the start of the battle, add up the number of units in your army — this is your army’s Strength. If a unit splits to form two or more individual units during the battle, then immediately increase your army’s Strength accordingly (e.g. if one unit in your army splits to form three individual units, your army’s Strength is increased by 2). If a unit merges with another to form a combined unit during the battle, then decrease your army’s strength accordingly (e.g. if two units from your army merge to form one unit, you immediately decrease your army’s strength by 1). At the end of the battle, add up how many units from your army are left on the battlefield, including all units embarked within TRANSPorts, but excluding all units that have been added to your army during the battle. If the total is 75% or more of your army’s Strength, score 15 victory points; if the total is less than 75%, but is 50% or more of your army's Strength, score 10 victory points; if the total is less than 50%, but is 25% or more of your army's Strength, score 5 victory points."
+            }
+          ]
+        },
+        {
+          "name": "Scorched Earth",
+          "objectives": [
+            {
+              "id": "GT20.00.02.01",
+              "name": "Raze",
+              "description": "[i]End Game[/i]\nAt the end of the battle, a player scores 6 victory points if one objective marker was removed from the battlefield due to a successful Raze Objective action performed by a unit from their army during the battle, and 12 victory points if two objective markers were so removed.",
+			  "actions": [
+					{
+					  "id": "GT20.00.02.01a",
+					  "name": "Raze Objective (Action)",
+					  "description": "[i]Action[/i]\nOne unit from your army can start to perform this action at the start of your Movement phase if it is within range of an objective marker that can be razed and no enemy units (excluding AIRCRAFT) are within range of that objective marker. Player A can only attempt to raze the objective markers labelled B, and player B can only attempt to raze the objective markers labelled A. The action is completed at the end of your turn. If this action is successfully completed, that objective marker is razed and removed from the battlefield."
+					}
+				  ]
+			
+			
+			
+			}
+          ]
+        },
+        {
+          "name": "Vital Intelligence",
+          "objectives": [
+            {
+              "id": "GT20.00.03.01",
+              "name": "Data Intercept",
+              "description": "[i]Progressive[/i]\nEach time a unit from your army successfully completes the following action, you score a number of victory points equal to the number of objective markers you currently control:",
+              "actions": [
+                {
+                  "id": "GT20.00.03.01a",
+                  "name": "Data Intercept (Action)",
+                  "description": "[i]Action[/i]\nOne unit from your army can start to perform this action at the end of your Movement phase if it is within range of an objective marker and no enemy units (excluding AIRCRAFT) are within range of that objective marker. The action is completed at the end of your next Command phase so long as the unit performing it is still within range of the same objective marker."
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "name": "Surround and estroy",
+          "objectives": [
+            {
+              "id": "GT20.00.04.01",
+              "name": "Surround Them",
+              "description": "[i]Progressive and End Game[/i]\n"
+            }
+          ]
+        },
+		{
+          "name": "Battle Lines",
+          "objectives": [
+            {
+              "id": "GT20.00.05.01",
+              "name": "Vital Ground",
+              "description": "[i]Progressive[/i]\n"
+            }
+          ]
+        },
+		{
+          "name": "The Scouring",
+          "objectives": [
+            {
+              "id": "GT20.00.06.01",
+              "name": "Strategic Scan (Action)",
+              "description": "[i]Action[/i]\n"
+            }
+          ]
+        },
+		{
+          "name": "Overrun",
+          "objectives": [
+            {
+              "id": "GT20.00.07.01",
+              "name": "Overrun",
+              "description": "[i]Progressive[/i]\n"
+            }
+          ]
+        },
+		{
+          "name": "Sweep and Clear",
+          "objectives": [
+            {
+              "id": "GT20.00.08.01",
+              "name": "Direct Assault",
+              "description": "[i]Progressive[/i]\n"
+            }
+          ]
+        },
+       {
+          "name": "Priority Target",
+          "objectives": [
+            {
+              "id": "GT20.00.09.01",
+              "name": "Priority Targets",
+              "description": "[i]Progressive[/i]\n"
+            }
+          ]
+        }
+      ]
+    }
 	]
 }
