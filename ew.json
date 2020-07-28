@@ -277,8 +277,15 @@
             {
               "id": "EW.00.14.01",
               "name": "Raze",
-              "description": "[i]End Game[/i]\nAt the end of the battle, a player scores 5 victory points if one objective marker was removed from the battlefield due to a successful Raze Objective action performed by a unit from their army during the battle, and 15 victory points if two objective markers were so removed. "
-            }
+              "description": "[i]End Game[/i]\nAt the end of the battle, a player scores 5 victory points if one objective marker was removed from the battlefield due to a successful Raze Objective action performed by a unit from their army during the battle, and 15 victory points if two objective markers were so removed.",
+               "actions": [
+					{
+					  "id": "EW.00.14.01a",
+					  "name": "Raze Objective (Action)",
+					  "description": "[i]Action[/i]\nOne unit from your army can start to perform this action at the start of your Movement phase if it is within range of an objective marker that can be razed and no enemy units (excluding AIRCRAFT) are within range of that objective marker. Player A can only attempt to raze the objective markers labelled B, and player B can only attempt to raze the objective markers labelled A. The action is completed at the end of your turn. If this action is successfully completed, that objective marker is razed and removed from the battlefield."
+					}
+				  ]
+			}
           ]
         },
         {
