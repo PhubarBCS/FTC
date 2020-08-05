@@ -1,5 +1,6 @@
 { 
-  "enabled": true,
+  "manualEnable" : true,
+  "forceEnabledTo": false,
   "expireDate": [4,8,2020],
   "message": "This is a test text!"
 }
