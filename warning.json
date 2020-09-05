@@ -1,5 +1,5 @@
 { 
-  "manualEnable" : false,
+  "manualEnable" : true,
   "forceEnabledTo": false,
   "expireDate": [20,8,2020],
   "message": "CROSSFIRE objectives position updated!"
