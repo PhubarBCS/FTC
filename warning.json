@@ -1,6 +1,6 @@
 { 
   "manualEnable" : true,
   "forceEnabledTo": true,
-  "expireDate": [20,8,2020],
+  "expireDate": [15,9,2020],
   "message": "Deploy zones can be raised in order to match various terrain heights +++ AND +++ Now you can change the table surface image too"
 }
