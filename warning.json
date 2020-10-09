@@ -2,5 +2,5 @@
   "manualEnable" : true,
   "forceEnabledTo": true,
   "expireDate": [20,9,2020],
-  "message": "ENCIRCLE mission in Combat Patrol has a wrong objective, waiting for update the fix"
+  "message": "Several fixes done, read the chat (yellow)"
 }
