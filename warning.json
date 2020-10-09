@@ -1,6 +1,6 @@
 { 
-  "manualEnable" : true,
+  "manualEnable" : false,
   "forceEnabledTo": true,
-  "expireDate": [20,9,2020],
+  "expireDate": [12,10,2020],
   "message": "Several fixes done, read the chat (yellow)"
 }
