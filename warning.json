@@ -1,6 +1,6 @@
 { 
   "manualEnable" : false,
   "forceEnabledTo": true,
-  "expireDate": [12,12,2020],
+  "expireDate": [14,12,2020],
   "message": "Adding new secondaries. Errors may happen, be patient :)"
 }
