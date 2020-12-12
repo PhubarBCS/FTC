@@ -1,6 +1,6 @@
 { 
   "manualEnable" : false,
   "forceEnabledTo": true,
-  "expireDate": [14,12,2020],
-  "message": "Adding new secondaries. Errors may happen, be patient :)"
+  "expireDate": [16,12,2020],
+  "message": "Addes secondaries for SM, Necrons, DW and SW"
 }
