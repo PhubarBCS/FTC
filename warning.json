@@ -1,6 +1,6 @@
 { 
   "manualEnable" : false,
   "forceEnabledTo": true,
-  "expireDate": [16,12,2020],
-  "message": "Addes secondaries for SM, Necrons, DW and SW"
+  "expireDate": [20,12,2020],
+  "message": "Choosing FACTION secondaries now reset the points, made a fix, waiting for upload"
 }
