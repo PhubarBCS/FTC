@@ -2,5 +2,5 @@
   "manualEnable" : false,
   "forceEnabledTo": true,
   "expireDate": [20,12,2020],
-  "message": "Choosing FACTION secondaries now reset the points, made a fix, waiting for upload"
+  "message": "Choosing FACTION secondaries now reset the points.<br/>Fix already made, waiting for upload.<br/>(changing pack never resets the sheet)"
 }
